@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import logow from './logow.png';
 import logocerveza from './logoca.png';
 import logoIV from './logoIV.png';
